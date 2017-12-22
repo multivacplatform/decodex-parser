@@ -1,0 +1,17 @@
+{
+  "name": "decodex-parser",
+  "version": "1.0.0",
+  "description": "Convert Decodex json to JSON Lines for Spark",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maziyar PANAHI <maziyar.panahi@iscpif.fr> (http://iscpif.fr/maziyar)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "2.6.0",
+    "lodash": "4.17.4",
+    "underscore": "1.8.3"
+  }
+}
