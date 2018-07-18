@@ -1,4 +1,4 @@
-# decodex-parser
+# decodex-parser [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/multivacplatform/decodex-parser/blob/master/LICENSE)
 
 ## Code of Conduct
 
