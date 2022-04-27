@@ -10,7 +10,7 @@
   "author": "Maziyar PANAHI <maziyar.panahi@iscpif.fr> (http://iscpif.fr/maziyar)",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "lodash": "^4.17.11",
     "underscore": "^1.9.1"
   }
